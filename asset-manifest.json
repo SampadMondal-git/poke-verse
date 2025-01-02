@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/poke-verse/static/css/main.0b679fb3.css",
-    "main.js": "/poke-verse/static/js/main.319b7caf.js",
+    "main.css": "/poke-verse/static/css/main.b116f4f3.css",
+    "main.js": "/poke-verse/static/js/main.8675c6c9.js",
     "static/js/453.98099095.chunk.js": "/poke-verse/static/js/453.98099095.chunk.js",
     "index.html": "/poke-verse/index.html",
-    "main.0b679fb3.css.map": "/poke-verse/static/css/main.0b679fb3.css.map",
-    "main.319b7caf.js.map": "/poke-verse/static/js/main.319b7caf.js.map",
+    "main.b116f4f3.css.map": "/poke-verse/static/css/main.b116f4f3.css.map",
+    "main.8675c6c9.js.map": "/poke-verse/static/js/main.8675c6c9.js.map",
     "453.98099095.chunk.js.map": "/poke-verse/static/js/453.98099095.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0b679fb3.css",
-    "static/js/main.319b7caf.js"
+    "static/css/main.b116f4f3.css",
+    "static/js/main.8675c6c9.js"
   ]
 }
