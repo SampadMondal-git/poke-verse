@@ -66,3 +66,7 @@ This project is licensed under the MIT License. See the [LICENSE]() file for det
 Data provided by [PokéAPI](https://pokeapi.co/).
 
 Inspired by the Pokémon franchise.# find-your-Pokemon
+
+## Creator
+
+Designed with love by [Samy](https://www.instagram.com/_ursfav.sxmy/), straight from the heart of Kolkata.
