@@ -90,7 +90,7 @@ export default function Fetch() {
 
             <footer>
                 <div className="footer">
-                    <p>© 2024 Pika Pika, Inc. All rights reserved. Designed by <a href="https://www.instagram.com/_ursfav.sxmy/">Samy</a></p>
+                    <p>© 2024 Poke Verse, Inc. All rights reserved. Designed by <a href="https://www.instagram.com/_ursfav.sxmy/">Samy</a></p>
                 </div>
             </footer>
 
