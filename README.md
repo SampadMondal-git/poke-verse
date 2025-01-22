@@ -37,7 +37,7 @@ Pokemon-fetch-api/
 
 **1. Clone the repository:**
 
-git clone https://github.com/SampadMondal-git/pokemon-fetch-api.git
+git clone https://github.com/SampadMondal-git/poke-verse.git
 
 **2. Navigate to the project directory:**
 
